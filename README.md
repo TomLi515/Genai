@@ -6,6 +6,8 @@ The notebook first prepares the dataset, splits it into training, validation, an
 
 For extra credit, I also include a simple interactive GUI, built with ipywidgets, allowing users to input news articles and view generated headlines in real time. All approaches are implemented from scratch except the GPT-2 model, which uses HuggingFace Transformers. No external scripts or files are needed. 
 
+For the three diiferent generation models, the finetuned GPT-2 model achieves the best Test BLEU: 0.0448, ROUGE-1: 0.0771, ROUGE-L: 0.0771.
+
 An example of the interactive GUI can be shown here, where the finetuned GPT-2 model takes the article and genreate a news headline.
 
 <img width="659" alt="18071748367602_ pic" src="https://github.com/user-attachments/assets/02903dc2-faca-4e42-9a32-1b78b83701aa" />
