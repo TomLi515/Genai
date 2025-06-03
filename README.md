@@ -1,4 +1,4 @@
-# Genai
+# Text Generation Project
 
 All project code, data processing, model training, and evaluation steps are implemented in a the notebook Text_Project.ipynb. To run the project, simply execute the notebook sequentially from top to bottom. The setup instructions, including data loading, preprocessing, model definitions, and training routines, are included as clearly labeled cells. 
 
